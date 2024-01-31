@@ -6,7 +6,7 @@ Skills:
 <ul>
   <li>✅ WordPress</li>
   <li>✅ PHP</li>
-  <li>✅ HTML5,CSS3,SASS,BOOTSTRAP</li>
+  <li>✅ HTML5 / CSS3 / BOOTSTRAP / SASS</li>
   <li>✅ JAVASCRIPT</li>
 </ul>
 
