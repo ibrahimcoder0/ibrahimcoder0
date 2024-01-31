@@ -1,6 +1,6 @@
 ### Hi I'm Ibrahim 👋,
 
- <ul style="list-style: none;">
+ <ul style="list-style:none;">
    <li>👑 I am Web Developer</li>
    <li>🖊️ Love to write code</li>
  </ul>
