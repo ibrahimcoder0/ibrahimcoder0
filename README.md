@@ -1,7 +1,10 @@
 ### Hi I'm Ibrahim 👋,
 
-   <p>👑 I am Web Developer</p> 
-    <p>🖊️ Love to write code</p>
+   <p>👑 I am Web Developer
+      <br>
+      🖊️ Love to write code
+   </p> 
+   
 
 
 <p>I am a Web Designer & Developer, who is passionate about making error-free websites with 100% client satisfaction. I give full time in development. I love to do this, it's my life everything. I learn new things every day.</p>
