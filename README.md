@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ibrahim
+### Hi I'm Ibrahim 👋,
 ![](https://pbs.twimg.com/profile_banners/1326089554483269632/1657627294/600x200)
 
 I am a front-end web developer 
